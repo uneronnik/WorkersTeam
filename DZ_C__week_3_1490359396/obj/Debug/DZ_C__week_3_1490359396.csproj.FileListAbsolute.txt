@@ -1,0 +1,6 @@
+D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.csprojAssemblyReference.cache
+D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\bin\Debug\DZ_C__week_3_1490359396.exe.config
+D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\bin\Debug\DZ_C__week_3_1490359396.exe
+D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\bin\Debug\DZ_C__week_3_1490359396.pdb
+D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.exe
+D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.pdb
