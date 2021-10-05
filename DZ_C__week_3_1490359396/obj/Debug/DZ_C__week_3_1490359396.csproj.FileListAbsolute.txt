@@ -4,3 +4,12 @@ D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\bin\Debug\DZ_C__week_3_149
 D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\bin\Debug\DZ_C__week_3_1490359396.pdb
 D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.exe
 D:\C#\DZ_C__week_3_1490359396\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.pdb
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\bin\Debug\DZ_C__week_3_1490359396.exe.config
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\bin\Debug\DZ_C__week_3_1490359396.exe
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\bin\Debug\DZ_C__week_3_1490359396.pdb
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\bin\Debug\LoggerLib.dll
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.csprojAssemblyReference.cache
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.csproj.CopyComplete
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.exe
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\obj\Debug\DZ_C__week_3_1490359396.pdb
+D:\C#\WorkersTeam\DZ_C__week_3_1490359396\bin\Debug\LoggerLib.pdb

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using DZ_C__week_3_1490359396.Interfaces;
 using DZ_C__week_3_1490359396.Classes.Parts;
 
+using LoggerLib;
+using LoggerLib.Events;
+
 namespace DZ_C__week_3_1490359396.Classes.Workers
 {
     class Worker : IWorker
@@ -23,6 +26,7 @@ namespace DZ_C__week_3_1490359396.Classes.Workers
                     return;
                 nextPart.Build();
             }
+            Logger.AddEvent(new InformationEvent($"Worker завершил работу"));
         }
 
         IPart FindNextPartToBuild(IBuilding building)

@@ -1,0 +1,8 @@
+D:\C#\Logger\LoggerLib\bin\Debug\LoggerLib.dll
+D:\C#\Logger\LoggerLib\bin\Debug\LoggerLib.pdb
+D:\C#\Logger\LoggerLib\obj\Debug\LoggerLib.dll
+D:\C#\Logger\LoggerLib\obj\Debug\LoggerLib.pdb
+D:\C#\WorkersTeam\LoggerLib\bin\Debug\LoggerLib.dll
+D:\C#\WorkersTeam\LoggerLib\bin\Debug\LoggerLib.pdb
+D:\C#\WorkersTeam\LoggerLib\obj\Debug\LoggerLib.dll
+D:\C#\WorkersTeam\LoggerLib\obj\Debug\LoggerLib.pdb

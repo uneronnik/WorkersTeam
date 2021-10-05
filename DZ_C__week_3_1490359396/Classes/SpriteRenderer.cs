@@ -6,6 +6,9 @@ using System.Text;
 using System.Threading.Tasks;
 using DZ_C__week_3_1490359396.Interfaces;
 
+using LoggerLib;
+using LoggerLib.Events;
+
 namespace DZ_C__week_3_1490359396.Classes
 {
     class SpriteRenderer // Выводит спрайт на экран
@@ -24,6 +27,7 @@ namespace DZ_C__week_3_1490359396.Classes
         }
         public void RenderSprite()
         {
+            Logger.AddEvent(new InformationEvent("Началась прорисовка спрайта"));
             if (_sprite.Lines == null)
                 return;
             
@@ -31,6 +35,7 @@ namespace DZ_C__week_3_1490359396.Classes
             {
                 Console.WriteLine(line);
             }
+            Logger.AddEvent(new InformationEvent("Спрайт успешно прорисован"));
         }
         public void ChangeSprite(Sprite sprite)
         {

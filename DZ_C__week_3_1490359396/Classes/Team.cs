@@ -7,6 +7,9 @@ using DZ_C__week_3_1490359396.Interfaces;
 using DZ_C__week_3_1490359396.Classes;
 using DZ_C__week_3_1490359396.Classes.Workers;
 
+using LoggerLib;
+using LoggerLib.Events;
+
 namespace DZ_C__week_3_1490359396.Classes
 {
     class Team
@@ -33,9 +36,11 @@ namespace DZ_C__week_3_1490359396.Classes
                     worker.Work(ref buildingToBuild); // Каждый работник выполняет свою работу
                     if (buildingToBuild.IsBuilt()) // Выходим из функции если дом построен
                         return;
+                   
                 }
             }
-            
+            Logger.AddEvent(new InformationEvent($"Дом построен"));
+
         }
     }
 }
