@@ -8,7 +8,7 @@ using DZ_C__week_3_1490359396.Interfaces;
 using DZ_C__week_3_1490359396.Classes.Buildings;
 
 using LoggerLib;
-using LoggerLib.Events;
+using LoggerLib.Messages;
 
 namespace DZ_C__week_3_1490359396
 {
@@ -16,31 +16,31 @@ namespace DZ_C__week_3_1490359396
     {
         static void Main(string[] args)
         {
-            Logger.AddEvent(new InformationEvent("Программа была запущена"));
+            Logger.WriteMessage(new InformationMessage("Программа была запущена"));
             try
             {
                 Team team = null;
                 House house = new House(4, 1, 4);
-                Logger.AddEvent(new InformationEvent("1 дом создан"));
+                Logger.WriteMessage(new InformationMessage("1 дом создан"));
 
                 List<House> houses = new List<House>();
                 houses.Add(new House(4, 2, 5));
                 houses.Add(new House(4, 1, 2));
-                Logger.AddEvent(new InformationEvent("2 дома создано"));
+                Logger.WriteMessage(new InformationMessage("2 дома создано"));
 
                 List<Tower> towers = new List<Tower>();
                 for (int i = 0; i < 4; i++)
                     towers.Add(new Tower(i));
-                Logger.AddEvent(new InformationEvent("башни созданы"));
+                Logger.WriteMessage(new InformationMessage("башни созданы"));
 
                 Castle castle = new Castle(8, 1, 12, towers);
-                Logger.AddEvent(new InformationEvent("замок создан"));
+                Logger.WriteMessage(new InformationMessage("замок создан"));
 
                 IBuilding building = new Town(castle, houses);
-                Logger.AddEvent(new InformationEvent("город создан"));
+                Logger.WriteMessage(new InformationMessage("город создан"));
 
                 team = new Team(4); // Если работников меньше 1 вызовится исключение
-                Logger.AddEvent(new InformationEvent("команда создана"));
+                Logger.WriteMessage(new InformationMessage("команда создана"));
 
                 team.BuildBuilding(ref building);
 
@@ -50,12 +50,12 @@ namespace DZ_C__week_3_1490359396
             }
             catch (Exception e)
             {
-                Logger.AddEvent(new ExeptionEvent(e.Message));
-                Logger.AddEvent(new EmptyLine());
+                Logger.WriteMessage(new ExeptionMessage(e.Message));
+                Logger.WriteMessage(new EmptyLine());
                 return;
             }
-            Logger.AddEvent(new InformationEvent("Программа успешно выполнилась"));
-            Logger.AddEvent(new EmptyLine());
+            Logger.WriteMessage(new InformationMessage("Программа успешно выполнилась"));
+            Logger.WriteMessage(new EmptyLine());
             System.Console.ReadKey();
         }
     }

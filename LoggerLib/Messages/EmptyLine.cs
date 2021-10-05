@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LoggerLib.Events
+namespace LoggerLib.Messages
 {
-    public class EmptyLine : IEvent
+    public class EmptyLine : ILogMessage
     {
-        string IEvent.ToString(INIManager manager)
+        string ILogMessage.ToString(INIManager manager)
         {
             return "";
         }

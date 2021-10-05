@@ -8,7 +8,7 @@ using DZ_C__week_3_1490359396.Classes;
 using DZ_C__week_3_1490359396.Classes.Workers;
 
 using LoggerLib;
-using LoggerLib.Events;
+using LoggerLib.Messages;
 
 namespace DZ_C__week_3_1490359396.Classes
 {
@@ -39,7 +39,7 @@ namespace DZ_C__week_3_1490359396.Classes
                    
                 }
             }
-            Logger.AddEvent(new InformationEvent($"Дом построен"));
+            Logger.WriteMessage(new InformationMessage($"Дом построен"));
 
         }
     }

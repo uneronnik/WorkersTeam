@@ -8,7 +8,7 @@ using System.IO;
 namespace LoggerLib
 {
     using System.Runtime.InteropServices;
-    public class INIManager //Скопирова из интернета и изменил GetPrivateString, добавив GetCurrentDirectory без него не работает
+    public class INIManager //Скопировал из интернета и изменил GetPrivateString, добавив GetCurrentDirectory без него не работает
     {
         //Конструктор, принимающий путь к INI-файлу
         public INIManager(string aPath)
@@ -36,7 +36,7 @@ namespace LoggerLib
         public void WritePrivateString(string aSection, string aKey, string aValue)
         {
             //Записать значение в INI-файл
-            WritePrivateString(aSection, aKey, aValue,  path);
+            WritePrivateString(aSection, aKey, aValue, Directory.GetCurrentDirectory() + "\\" + path);
         }
 
         //Возвращает или устанавливает путь к INI файлу

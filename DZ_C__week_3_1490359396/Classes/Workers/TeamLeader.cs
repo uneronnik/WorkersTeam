@@ -7,7 +7,7 @@ using DZ_C__week_3_1490359396.Interfaces;
 using DZ_C__week_3_1490359396.Classes.Parts;
 
 using LoggerLib;
-using LoggerLib.Events;
+using LoggerLib.Messages;
 
 namespace DZ_C__week_3_1490359396.Classes.Workers
 {
@@ -21,8 +21,8 @@ namespace DZ_C__week_3_1490359396.Classes.Workers
 
             int percentOfBuiltParts = (int)(numberOfBuiltParts / (double)numberOfParts * 100);
             Console.WriteLine($"Постройка завершена на {percentOfBuiltParts}%");
-            Logger.AddEvent(new InformationEvent($"Team Leader завершил работу"));
-            Logger.AddEvent(new InformationEvent($"Постройка завершена на { percentOfBuiltParts }%"));
+            Logger.WriteMessage(new InformationMessage($"Team Leader завершил работу"));
+            Logger.WriteMessage(new InformationMessage($"Постройка завершена на { percentOfBuiltParts }%"));
         }
         int FindNumberOfBuiltPartsInBuilding(IBuilding building)
         {

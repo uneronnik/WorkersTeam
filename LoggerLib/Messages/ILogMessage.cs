@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LoggerLib.Events
+namespace LoggerLib.Messages
 {
-    public interface IEvent
+    public interface ILogMessage
     {
         string ToString(INIManager manager);
     }

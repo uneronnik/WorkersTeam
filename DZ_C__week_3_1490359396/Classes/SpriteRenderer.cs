@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using DZ_C__week_3_1490359396.Interfaces;
 
 using LoggerLib;
-using LoggerLib.Events;
+using LoggerLib.Messages;
 
 namespace DZ_C__week_3_1490359396.Classes
 {
@@ -27,7 +27,7 @@ namespace DZ_C__week_3_1490359396.Classes
         }
         public void RenderSprite()
         {
-            Logger.AddEvent(new InformationEvent("Началась прорисовка спрайта"));
+            Logger.WriteMessage(new InformationMessage("Началась прорисовка спрайта"));
             if (_sprite.Lines == null)
                 return;
             
@@ -35,7 +35,7 @@ namespace DZ_C__week_3_1490359396.Classes
             {
                 Console.WriteLine(line);
             }
-            Logger.AddEvent(new InformationEvent("Спрайт успешно прорисован"));
+            Logger.WriteMessage(new InformationMessage("Спрайт успешно прорисован"));
         }
         public void ChangeSprite(Sprite sprite)
         {

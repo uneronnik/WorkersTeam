@@ -7,7 +7,7 @@ using DZ_C__week_3_1490359396.Interfaces;
 using DZ_C__week_3_1490359396.Classes.Parts;
 
 using LoggerLib;
-using LoggerLib.Events;
+using LoggerLib.Messages;
 
 namespace DZ_C__week_3_1490359396.Classes.Workers
 {
@@ -26,7 +26,7 @@ namespace DZ_C__week_3_1490359396.Classes.Workers
                     return;
                 nextPart.Build();
             }
-            Logger.AddEvent(new InformationEvent($"Worker завершил работу"));
+            Logger.WriteMessage(new InformationMessage($"Worker завершил работу"));
         }
 
         IPart FindNextPartToBuild(IBuilding building)

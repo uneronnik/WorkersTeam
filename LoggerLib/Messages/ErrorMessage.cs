@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LoggerLib.Events
+namespace LoggerLib.Messages
 {
-    public class ErrorEvent : IEvent
+    public class ErrorMessage : ILogMessage
     {
         private string _message;
-        public ErrorEvent(string message)
+        public ErrorMessage(string message)
         {
             _message = message;
         }
-        string IEvent.ToString(INIManager manager)
+        string ILogMessage.ToString(INIManager manager)
         {
             Dictionary<string, int> order = new Dictionary<string, int>();
             order["date"] = Convert.ToInt32(manager.GetPrivateString("order", "date"));

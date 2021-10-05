@@ -41,14 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Events\EmptyLine.cs" />
-    <Compile Include="Events\ErrorEvent.cs" />
-    <Compile Include="Events\ExeptionEvent.cs" />
-    <Compile Include="Events\InformationEvent.cs" />
-    <Compile Include="Events\WarningEvent.cs" />
+    <Compile Include="Messages\EmptyLine.cs" />
+    <Compile Include="Messages\ErrorMessage.cs" />
+    <Compile Include="Messages\ExeptionMessage.cs" />
+    <Compile Include="Messages\InformationMessage.cs" />
+    <Compile Include="Messages\WarningMessage.cs" />
     <Compile Include="INIManager.cs" />
     <Compile Include="Logger.cs" />
-    <Compile Include="Events\IEvent.cs" />
+    <Compile Include="Messages\ILogMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
