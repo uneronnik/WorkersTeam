@@ -1,97 +1,294 @@
-[10/6/2021 12:34:56 AM] Information (User name) Программа была запущена 
-[10/6/2021 12:34:56 AM] Information (User name) 1 дом создан 
-[10/6/2021 12:34:56 AM] Information (User name) 2 дома создано 
-[10/6/2021 12:34:56 AM] Information (User name) башни созданы 
-[10/6/2021 12:34:56 AM] Information (User name) замок создан 
-[10/6/2021 12:34:56 AM] Information (User name) город создан 
-[10/6/2021 12:34:56 AM] Information (User name) команда создана 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 6% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 13% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 20% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 27% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 33% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 40% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 47% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 54% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 61% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 67% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 74% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 81% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 88% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Team Leader завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Постройка завершена на 94% 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Worker завершил работу 
-[10/6/2021 12:34:56 AM] Information (User name) Началась прорисовка спрайта 
-[10/6/2021 12:34:56 AM] Information (User name) Спрайт успешно прорисован 
-[10/6/2021 12:34:56 AM] Information (User name) Программа успешно выполнилась 
+[10/6/2021 1:03:21 AM] Information (User name) Программа была запущена 
+[10/6/2021 1:03:21 AM] Information (User name) 1 дом создан 
+[10/6/2021 1:03:21 AM] Information (User name) 2 дома создано 
+[10/6/2021 1:03:21 AM] Information (User name) башни созданы 
+[10/6/2021 1:03:21 AM] Information (User name) замок создан 
+[10/6/2021 1:03:21 AM] Information (User name) город создан 
+[10/6/2021 1:03:21 AM] Information (User name) команда создана 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 6% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 13% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 20% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 27% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 33% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 40% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 47% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 54% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 61% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 67% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 74% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 81% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 88% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Постройка завершена на 94% 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:21 AM] Information (User name) Началась прорисовка спрайта 
+[10/6/2021 1:03:21 AM] Information (User name) Спрайт успешно прорисован 
+[10/6/2021 1:03:21 AM] Information (User name) Программа успешно выполнилась 
+
+[10/6/2021 1:03:24 AM] Information (User name) Программа была запущена 
+[10/6/2021 1:03:24 AM] Information (User name) 1 дом создан 
+[10/6/2021 1:03:24 AM] Information (User name) 2 дома создано 
+[10/6/2021 1:03:24 AM] Information (User name) башни созданы 
+[10/6/2021 1:03:24 AM] Information (User name) замок создан 
+[10/6/2021 1:03:24 AM] Information (User name) город создан 
+[10/6/2021 1:03:24 AM] Information (User name) команда создана 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 6% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 13% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 20% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 27% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 33% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 40% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 47% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 54% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 61% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 67% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 74% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 81% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 88% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Постройка завершена на 94% 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:03:24 AM] Information (User name) Началась прорисовка спрайта 
+[10/6/2021 1:03:24 AM] Information (User name) Спрайт успешно прорисован 
+[10/6/2021 1:03:24 AM] Information (User name) Программа успешно выполнилась 
+
+[10/6/2021 1:04:31 AM] Information (User name) Программа была запущена 
+[10/6/2021 1:04:31 AM] Information (User name) 1 дом создан 
+[10/6/2021 1:04:31 AM] Information (User name) 2 дома создано 
+[10/6/2021 1:04:31 AM] Information (User name) башни созданы 
+[10/6/2021 1:04:31 AM] Information (User name) замок создан 
+[10/6/2021 1:04:31 AM] Information (User name) город создан 
+[10/6/2021 1:04:31 AM] Information (User name) команда создана 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 6% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 13% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 20% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 27% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 33% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 40% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 47% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 54% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 61% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 67% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 74% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 81% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 88% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Team Leader завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Постройка завершена на 94% 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Worker завершил работу 
+[10/6/2021 1:04:31 AM] Information (User name) Началась прорисовка спрайта 
+[10/6/2021 1:04:31 AM] Information (User name) Спрайт успешно прорисован 
+[10/6/2021 1:04:31 AM] Information (User name) Программа успешно выполнилась 
+

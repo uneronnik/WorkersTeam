@@ -46,13 +46,16 @@ namespace DZ_C__week_3_1490359396
 
                 Console.WriteLine("Строительство постройки завершено!");
                 building.Render();
+                
             }
             catch (Exception e)
             {
                 Logger.AddEvent(new ExeptionEvent(e.Message));
+                Logger.AddEvent(new EmptyLine());
                 return;
             }
             Logger.AddEvent(new InformationEvent("Программа успешно выполнилась"));
+            Logger.AddEvent(new EmptyLine());
             System.Console.ReadKey();
         }
     }

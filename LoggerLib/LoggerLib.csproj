@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Events\EmptyLine.cs" />
     <Compile Include="Events\ErrorEvent.cs" />
     <Compile Include="Events\ExeptionEvent.cs" />
     <Compile Include="Events\InformationEvent.cs" />
