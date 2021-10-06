@@ -9,14 +9,14 @@ namespace LoggerLib
 {
     sealed public class Logger
     {
-        public static void WriteMessage(ILogMessage logEvent)
+        public static void WriteMessage(ILogMessage logMessage)
         {
             INIManager manager = new INIManager("settings.ini");
             if (!File.Exists("log.txt"))
                 File.Create("log.txt");
 
             StreamWriter streamWriter = new StreamWriter("log.txt", true, Encoding.Default);
-            string eventLine = logEvent.ToString(manager);
+            string eventLine = logMessage.ToString(manager);
 
             streamWriter.WriteLine(eventLine);
 

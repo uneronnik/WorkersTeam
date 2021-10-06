@@ -46,7 +46,8 @@ namespace DZ_C__week_3_1490359396
 
                 Console.WriteLine("Строительство постройки завершено!");
                 building.Render();
-                
+                int f = 0;
+                int g = 5 / f;
             }
             catch (Exception e)
             {
