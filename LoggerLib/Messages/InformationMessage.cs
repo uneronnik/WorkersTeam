@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LoggerLib.Messages
 {
-    public class InformationMessage : ILogMessage
+    sealed public class InformationMessage : ILogMessage
     {
         private string _message;
         public InformationMessage(string message)

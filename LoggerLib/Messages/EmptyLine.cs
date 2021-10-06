@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LoggerLib.Messages
 {
-    public class EmptyLine : ILogMessage
+    sealed public class EmptyLine : ILogMessage
     {
         string ILogMessage.ToString(INIManager manager)
         {

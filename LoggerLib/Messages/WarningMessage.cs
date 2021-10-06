@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace LoggerLib.Messages
 {
-    public class WarningMessage : ILogMessage
+    sealed public class WarningMessage : ILogMessage
     {
-        private INIManager manager;
         private string _message;
         public WarningMessage(string message)
         {
